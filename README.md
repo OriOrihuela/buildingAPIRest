@@ -62,4 +62,4 @@ The driver to remove a Topic makes use of:
 parameter of the *Topic* to be deleted.
 - `@PathVariable` to pick up the `id` parameter.
 
-*Postman* allows you to make PUT and DELETE requests.
+**Postman** allows you to make PUT and DELETE requests.
