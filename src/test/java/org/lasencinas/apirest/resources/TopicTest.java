@@ -1,4 +1,4 @@
-package topics;
+package org.lasencinas.apirest.resources;
 
 import org.junit.Before;
 import org.junit.Test;

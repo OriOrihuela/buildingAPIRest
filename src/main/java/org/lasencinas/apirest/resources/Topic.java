@@ -1,4 +1,4 @@
-package topics;
+package org.lasencinas.apirest.resources;
 
 public class Topic {
 
